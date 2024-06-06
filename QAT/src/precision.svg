@@ -1,0 +1,107 @@
+<svg width="1190" height="490" viewBox="0 0 1190 490" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="4" y="45" width="36" height="36" fill="#D6FFC7" stroke="#34AF48" stroke-width="2"/>
+<rect x="42" y="45" width="36" height="36" fill="#FFCAC7" stroke="#AF5234" stroke-width="2"/>
+<rect x="79" y="45" width="36" height="36" fill="#FFCAC7" stroke="#AF5234" stroke-width="2"/>
+<rect x="116" y="45" width="36" height="36" fill="#FFCAC7" stroke="#AF5234" stroke-width="2"/>
+<rect x="153" y="45" width="36" height="36" fill="#FFCAC7" stroke="#AF5234" stroke-width="2"/>
+<rect x="190" y="45" width="36" height="36" fill="#FFCAC7" stroke="#AF5234" stroke-width="2"/>
+<rect x="227" y="45" width="36" height="36" fill="#FFCAC7" stroke="#AF5234" stroke-width="2"/>
+<rect x="264" y="45" width="36" height="36" fill="#FFCAC7" stroke="#AF5234" stroke-width="2"/>
+<rect x="301" y="45" width="36" height="36" fill="#FFCAC7" stroke="#AF5234" stroke-width="2"/>
+<rect x="339" y="45" width="36" height="36" fill="#C7DEFF" stroke="#3465AF" stroke-width="2"/>
+<rect x="376" y="45" width="36" height="36" fill="#C7DEFF" stroke="#3465AF" stroke-width="2"/>
+<rect x="413" y="45" width="36" height="36" fill="#C7DEFF" stroke="#3465AF" stroke-width="2"/>
+<rect x="450" y="45" width="36" height="36" fill="#C7DEFF" stroke="#3465AF" stroke-width="2"/>
+<rect x="487" y="45" width="36" height="36" fill="#C7DEFF" stroke="#3465AF" stroke-width="2"/>
+<rect x="524" y="45" width="36" height="36" fill="#C7DEFF" stroke="#3465AF" stroke-width="2"/>
+<rect x="561" y="45" width="36" height="36" fill="#C7DEFF" stroke="#3465AF" stroke-width="2"/>
+<rect x="598" y="45" width="36" height="36" fill="#C7DEFF" stroke="#3465AF" stroke-width="2"/>
+<rect x="635" y="45" width="36" height="36" fill="#C7DEFF" stroke="#3465AF" stroke-width="2"/>
+<rect x="672" y="45" width="36" height="36" fill="#C7DEFF" stroke="#3465AF" stroke-width="2"/>
+<rect x="709" y="45" width="36" height="36" fill="#C7DEFF" stroke="#3465AF" stroke-width="2"/>
+<rect x="746" y="45" width="36" height="36" fill="#C7DEFF" stroke="#3465AF" stroke-width="2"/>
+<rect x="783" y="45" width="36" height="36" fill="#C7DEFF" stroke="#3465AF" stroke-width="2"/>
+<rect x="820" y="45" width="36" height="36" fill="#C7DEFF" stroke="#3465AF" stroke-width="2"/>
+<rect x="857" y="45" width="36" height="36" fill="#C7DEFF" stroke="#3465AF" stroke-width="2"/>
+<rect x="894" y="45" width="36" height="36" fill="#C7DEFF" stroke="#3465AF" stroke-width="2"/>
+<rect x="931" y="45" width="36" height="36" fill="#C7DEFF" stroke="#3465AF" stroke-width="2"/>
+<rect x="968" y="45" width="36" height="36" fill="#C7DEFF" stroke="#3465AF" stroke-width="2"/>
+<rect x="1005" y="45" width="36" height="36" fill="#C7DEFF" stroke="#3465AF" stroke-width="2"/>
+<rect x="1042" y="45" width="36" height="36" fill="#C7DEFF" stroke="#3465AF" stroke-width="2"/>
+<rect x="1079" y="45" width="36" height="36" fill="#C7DEFF" stroke="#3465AF" stroke-width="2"/>
+<rect x="1116" y="45" width="36" height="36" fill="#C7DEFF" stroke="#3465AF" stroke-width="2"/>
+<rect x="1153" y="45" width="36" height="36" fill="#C7DEFF" stroke="#3465AF" stroke-width="2"/>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="32" font-weight="bold" letter-spacing="0em"><tspan x="6.39062" y="31.1364">Float 32-bit</tspan></text>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="18" letter-spacing="0em"><tspan x="458.865" y="36.5455">: ~1e     to ~3e</tspan></text>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="403.266" y="36.5455">Range</tspan></text>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="496.293" y="27.8636">-38</tspan></text>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="578.482" y="27.8636">38</tspan></text>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="18" letter-spacing="0em"><tspan x="458.865" y="393.545">: ~1e     to ~3e</tspan></text>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="403.266" y="393.545">Range</tspan></text>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="496.293" y="384.864">-38</tspan></text>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="578.482" y="384.864">38</tspan></text>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="18" letter-spacing="0em"><tspan x="459.793" y="213.545">: ~6e    to 65504</tspan></text>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="404.193" y="213.545">Range</tspan></text>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="501.043" y="204.864">-8</tspan></text>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="6.37695" y="128.591">1 bit</tspan></text>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="6.01465" y="98.5909">Sign</tspan></text>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="161.291" y="125.591">8 bits</tspan></text>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="149.287" y="101.591">Exponent</tspan></text>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="726.396" y="128.591">23 bits</tspan></text>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="720.271" y="98.5909">Mantissa</tspan></text>
+<path d="M3 108L10.5 112.33V103.67L3 108ZM40 108L32.5 103.67V112.33L40 108ZM9.75 108.75H33.25V107.25H9.75V108.75Z" fill="#34AF48"/>
+<path d="M338 108L330.5 103.67V112.33L338 108ZM40 108L47.5 112.33V103.67L40 108ZM331.25 107.25L46.75 107.25V108.75L331.25 108.75V107.25Z" fill="#AF5234"/>
+<path d="M338 108L345.5 112.33V103.67L338 108ZM1190 108L1182.5 103.67V112.33L1190 108ZM344.75 108.75H1183.25V107.25H344.75V108.75Z" fill="#3465AF"/>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="6.37695" y="305.591">1 bit</tspan></text>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="6.01465" y="275.591">Sign</tspan></text>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="115.407" y="302.591">5 bits</tspan></text>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="103.287" y="278.591">Exponent</tspan></text>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="367.175" y="305.591">10 bits</tspan></text>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="360.271" y="275.591">Mantissa</tspan></text>
+<path d="M3 285L10.5 289.33V280.67L3 285ZM40 285L32.5 280.67V289.33L40 285ZM9.75 285.75H33.25V284.25H9.75V285.75Z" fill="#34AF48"/>
+<path d="M228 285L220.5 280.67V289.33L228 285ZM40 285L47.5 289.33V280.67L40 285ZM221.25 284.25H46.75V285.75H221.25V284.25Z" fill="#AF5234"/>
+<path d="M228 285L235.5 289.33L235.5 280.67L228 285ZM597 285L589.5 280.67L589.5 289.33L597 285ZM234.75 285.75L590.25 285.75L590.25 284.25L234.75 284.25L234.75 285.75Z" fill="#3465AF"/>
+<rect x="4" y="220" width="36" height="36" fill="#D6FFC7" stroke="#34AF48" stroke-width="2"/>
+<rect x="42" y="220" width="36" height="36" fill="#FFCAC7" stroke="#AF5234" stroke-width="2"/>
+<rect x="79" y="220" width="36" height="36" fill="#FFCAC7" stroke="#AF5234" stroke-width="2"/>
+<rect x="116" y="220" width="36" height="36" fill="#FFCAC7" stroke="#AF5234" stroke-width="2"/>
+<rect x="153" y="220" width="36" height="36" fill="#FFCAC7" stroke="#AF5234" stroke-width="2"/>
+<rect x="191" y="220" width="36" height="36" fill="#FFCAC7" stroke="#AF5234" stroke-width="2"/>
+<rect x="229" y="220" width="36" height="36" fill="#C7DEFF" stroke="#3465AF" stroke-width="2"/>
+<rect x="266" y="220" width="36" height="36" fill="#C7DEFF" stroke="#3465AF" stroke-width="2"/>
+<rect x="303" y="220" width="36" height="36" fill="#C7DEFF" stroke="#3465AF" stroke-width="2"/>
+<rect x="340" y="220" width="36" height="36" fill="#C7DEFF" stroke="#3465AF" stroke-width="2"/>
+<rect x="377" y="220" width="36" height="36" fill="#C7DEFF" stroke="#3465AF" stroke-width="2"/>
+<rect x="414" y="220" width="36" height="36" fill="#C7DEFF" stroke="#3465AF" stroke-width="2"/>
+<rect x="451" y="220" width="36" height="36" fill="#C7DEFF" stroke="#3465AF" stroke-width="2"/>
+<rect x="488" y="220" width="36" height="36" fill="#C7DEFF" stroke="#3465AF" stroke-width="2"/>
+<rect x="526" y="220" width="36" height="36" fill="#C7DEFF" stroke="#3465AF" stroke-width="2"/>
+<rect x="563" y="220" width="36" height="36" fill="#C7DEFF" stroke="#3465AF" stroke-width="2"/>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="32" font-weight="bold" letter-spacing="0em"><tspan x="9.125" y="212.136">Float 16-bit</tspan></text>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3.37695" y="486.591">1 bit</tspan></text>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="3.01465" y="456.591">Sign</tspan></text>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="162.291" y="483.591">8 bits</tspan></text>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="150.287" y="459.591">Exponent</tspan></text>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="448.256" y="486.591">7 bits</tspan></text>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="437.271" y="456.591">Mantissa</tspan></text>
+<path d="M0 466L7.5 470.33V461.67L0 466ZM37 466L29.5 461.67V470.33L37 466ZM6.75 466.75H30.25V465.25H6.75V466.75Z" fill="#34AF48"/>
+<path d="M337 466L329.5 461.67V470.33L337 466ZM37 466L44.5 470.33V461.67L37 466ZM330.25 465.25L43.75 465.25V466.75L330.25 466.75V465.25Z" fill="#AF5234"/>
+<path d="M337 466L344.5 470.33L344.5 461.67L337 466ZM594 466L586.5 461.67L586.5 470.33L594 466ZM343.75 466.75L587.25 466.75L587.25 465.25L343.75 465.25L343.75 466.75Z" fill="#3465AF"/>
+<rect x="1" y="401" width="36" height="36" fill="#D6FFC7" stroke="#34AF48" stroke-width="2"/>
+<rect x="39" y="401" width="36" height="36" fill="#FFCAC7" stroke="#AF5234" stroke-width="2"/>
+<rect x="76" y="401" width="36" height="36" fill="#FFCAC7" stroke="#AF5234" stroke-width="2"/>
+<rect x="113" y="401" width="36" height="36" fill="#FFCAC7" stroke="#AF5234" stroke-width="2"/>
+<rect x="150" y="401" width="36" height="36" fill="#FFCAC7" stroke="#AF5234" stroke-width="2"/>
+<rect x="188" y="401" width="36" height="36" fill="#FFCAC7" stroke="#AF5234" stroke-width="2"/>
+<rect x="226" y="401" width="36" height="36" fill="#FFCAC7" stroke="#AF5234" stroke-width="2"/>
+<rect x="263" y="401" width="36" height="36" fill="#FFCAC7" stroke="#AF5234" stroke-width="2"/>
+<rect x="300" y="401" width="36" height="36" fill="#FFCAC7" stroke="#AF5234" stroke-width="2"/>
+<rect x="337" y="401" width="36" height="36" fill="#C7DEFF" stroke="#3465AF" stroke-width="2"/>
+<rect x="374" y="401" width="36" height="36" fill="#C7DEFF" stroke="#3465AF" stroke-width="2"/>
+<rect x="411" y="401" width="36" height="36" fill="#C7DEFF" stroke="#3465AF" stroke-width="2"/>
+<rect x="448" y="401" width="36" height="36" fill="#C7DEFF" stroke="#3465AF" stroke-width="2"/>
+<rect x="485" y="401" width="36" height="36" fill="#C7DEFF" stroke="#3465AF" stroke-width="2"/>
+<rect x="523" y="401" width="36" height="36" fill="#C7DEFF" stroke="#3465AF" stroke-width="2"/>
+<rect x="560" y="401" width="36" height="36" fill="#C7DEFF" stroke="#3465AF" stroke-width="2"/>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="32" font-weight="bold" letter-spacing="0em"><tspan x="5.23438" y="393.136">Bfloat 16-bit</tspan></text>
+</svg>

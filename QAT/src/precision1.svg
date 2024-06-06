@@ -1,0 +1,19 @@
+<svg width="551" height="263" viewBox="0 0 551 263" fill="none" xmlns="http://www.w3.org/2000/svg">
+<line y1="61.5" x2="551" y2="61.5" stroke="black" stroke-dasharray="2 2"/>
+<line y1="121.5" x2="551" y2="121.5" stroke="black" stroke-dasharray="2 2"/>
+<line y1="181.5" x2="551" y2="181.5" stroke="black" stroke-dasharray="2 2"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="28" letter-spacing="0em"><tspan x="212.48" y="44.1818">.1234</tspan></text>
+<text fill="#AF5234" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="28" letter-spacing="0em"><tspan x="175.02" y="102.182">.1234000...</tspan></text>
+<text fill="#346DAF" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="28" letter-spacing="0em"><tspan x="177.234" y="164.182">.1234130...</tspan></text>
+<text fill="#34AF40" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="28" letter-spacing="0em"><tspan x="178.041" y="228.182">.1235351...</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="28" letter-spacing="0em"><tspan x="406.336" y="44.1818">75505</tspan></text>
+<text fill="#AF5234" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="28" letter-spacing="0em"><tspan x="406.336" y="102.182">75505</tspan></text>
+<text fill="#346DAF" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="28" letter-spacing="0em"><tspan x="431.443" y="164.182">inf</tspan></text>
+<text fill="#34AF40" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="28" letter-spacing="0em"><tspan x="405.426" y="228.182">75264</tspan></text>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="28" font-weight="bold" letter-spacing="0em"><tspan x="19.1875" y="44.1818">Original</tspan></text>
+<text fill="#AF5234" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="28" font-weight="bold" letter-spacing="0em"><tspan x="19.6016" y="102.182">Float32</tspan></text>
+<text fill="#346DAF" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="28" font-weight="bold" letter-spacing="0em"><tspan x="23.5117" y="164.182">Float16</tspan></text>
+<text fill="#34AF40" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="28" font-weight="bold" letter-spacing="0em"><tspan x="10.5781" y="228.182">Bfloat16</tspan></text>
+<rect x="142.5" y="1.5" width="407" height="260" rx="1.5" stroke="#3465AF" stroke-width="3"/>
+<rect x="142.5" y="1.5" width="206" height="260" rx="1.5" stroke="#3465AF" stroke-width="3"/>
+</svg>

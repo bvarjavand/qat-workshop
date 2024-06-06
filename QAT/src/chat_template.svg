@@ -1,0 +1,43 @@
+<svg width="623" height="308" viewBox="0 0 623 308" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_6_83)">
+<rect width="623" height="308" fill="white"/>
+<rect x="200.5" y="19.5" width="417" height="279" rx="8.5" fill="#F7F7F7" stroke="#3465AF" stroke-width="3"/>
+<rect x="210" y="63" width="226" height="33" rx="5" fill="#CAEAFC"/>
+<rect x="210" y="102" width="46" height="33" rx="5" fill="#F5FCCA"/>
+<rect x="210" y="140" width="74" height="33" rx="5" fill="#FCD6CA"/>
+<rect x="210" y="177" width="397" height="34" rx="5" fill="#FCD6CA"/>
+<rect x="210" y="215" width="42" height="33" rx="5" fill="#F5FCCA"/>
+<rect x="210" y="252" width="108" height="33" rx="5" fill="#CAFCD5"/>
+<rect x="210" y="26" width="94" height="33" rx="5" fill="#CAEAFC"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" letter-spacing="0em"><tspan x="214" y="47.3182">&#60;|system|&#62;&#10;</tspan><tspan x="214" y="66.3182">&#10;</tspan><tspan x="214" y="85.3182">You are a friendly chatbot.&#10;</tspan><tspan x="214" y="104.318">&#10;</tspan><tspan x="214" y="123.318">&#60;/s&#62;&#10;</tspan><tspan x="214" y="142.318">&#10;</tspan><tspan x="214" y="161.318">&#60;|user|&#62;&#10;</tspan><tspan x="214" y="180.318">&#10;</tspan><tspan x="214" y="199.318">Tell me a funny joke about Large Language Models.&#10;</tspan><tspan x="214" y="218.318">&#10;</tspan><tspan x="214" y="237.318">&#60;/s&#62;&#10;</tspan><tspan x="214" y="256.318">&#10;</tspan><tspan x="214" y="275.318">&#60;|assistant|&#62;</tspan></text>
+<text fill="#1B1B1B" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="600" letter-spacing="0em"><tspan x="208" y="12.8182">Prompt Template</tspan></text>
+<text fill="#2E3135" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" letter-spacing="0em"><tspan x="9" y="273.318">The </tspan></text>
+<text fill="#2E3135" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="42.5312" y="273.318">model&#x2019;s answer</tspan></text>
+<text fill="#2E3135" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" letter-spacing="0em"><tspan x="3" y="164.318">The </tspan></text>
+<text fill="#2E3135" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="36.5312" y="164.318">user instruction</tspan></text>
+<text fill="#2E3135" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" letter-spacing="0em"><tspan x="167.094" y="110.318"> &#10;</tspan><tspan x="57.7969" y="129.318">(eos) token</tspan></text>
+<text fill="#2E3135" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="29.4062" y="110.318">End-of-sequence</tspan></text>
+<text fill="#2E3135" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" letter-spacing="0em"><tspan x="31" y="46.3182">The </tspan></text>
+<text fill="#2E3135" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="64.5312" y="46.3182">chat context</tspan></text>
+<line x1="210" y1="41.75" x2="173" y2="41.75" stroke="#505050" stroke-width="1.5"/>
+<circle cx="172.5" cy="41.5" r="3.5" fill="#505050"/>
+<text fill="#2E3135" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-style="italic" font-weight="bold" letter-spacing="0em"><tspan x="351" y="46.3182">Start of sequence</tspan></text>
+<line x1="340" y1="41.75" x2="304" y2="41.75" stroke="#505050" stroke-width="1.5"/>
+<circle cx="342.5" cy="41.5" r="3.5" fill="#505050"/>
+<line x1="210" y1="81.75" x2="187" y2="81.75" stroke="#505050" stroke-width="1.5"/>
+<line x1="187.75" y1="42" x2="187.75" y2="81" stroke="#505050" stroke-width="1.5"/>
+<line x1="210" y1="119.75" x2="152" y2="119.75" stroke="#505050" stroke-width="1.5"/>
+<circle cx="152.5" cy="119.5" r="3.5" fill="#505050"/>
+<line x1="210" y1="157.75" x2="173" y2="157.75" stroke="#505050" stroke-width="1.5"/>
+<circle cx="172.5" cy="157.5" r="3.5" fill="#505050"/>
+<line x1="210" y1="193.75" x2="187" y2="193.75" stroke="#505050" stroke-width="1.5"/>
+<line x1="187.75" y1="158" x2="187.75" y2="193" stroke="#505050" stroke-width="1.5"/>
+<line x1="210" y1="268.75" x2="173" y2="268.75" stroke="#505050" stroke-width="1.5"/>
+<circle cx="172.5" cy="268.5" r="3.5" fill="#505050"/>
+</g>
+<defs>
+<clipPath id="clip0_6_83">
+<rect width="623" height="308" fill="white"/>
+</clipPath>
+</defs>
+</svg>
